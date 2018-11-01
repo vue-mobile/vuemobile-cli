@@ -1,9 +1,9 @@
 {
-  "name": "cordova",
-  "version": "8.0.1-dev",
+  "name": "vuemobile",
+  "version": "0.0.1",
   "preferGlobal": true,
-  "description": "Cordova command line interface tool",
-  "main": "cordova",
+  "description": "Vue Mobile command line interface tool",
+  "main": "vuemobile",
   "engines": {
     "node": ">=6.0.0"
   },
@@ -55,6 +55,10 @@
     {
       "name": "Brian LeRoux",
       "email": "b@brian.io"
+    },
+        {
+      "name": "Misha Marinenko",
+      "email": "misha@marinenko.rf.gd"
     },
     {
       "name": "Fil Maj",
